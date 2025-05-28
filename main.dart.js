@@ -84286,7 +84286,7 @@ case 5:q.ad(new A.aje(q,m))
 q.ad(new A.ajf(q))
 case 4:return A.M(null,r)}})
 return A.N($async$rd,r)},
-N(a){var s=this,r=null,q=A.ea(16),p=t.p,o=A.b([A.ave("logo2.png",100),B.yj,B.SE,B.cW,A.mE(!0,B.ba,!1,r,!0,B.K,r,A.q8(),s.d,r,r,r,r,r,2,A.lS(r,new A.eh(4,A.ea(12),B.c9),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Username",!0,r,B.Eo,r,r,r,r,r,r,r,r,r,r,r),B.Y,!0,r,!0,r,!1,r,B.bd,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bS,r,r,B.b6,B.aX,r,r,r,r,r,r,r,!0,B.ah,r,B.c0,r,r,r,r),B.hK,A.mE(!0,B.ba,!1,r,!0,B.K,r,A.q8(),s.e,r,r,r,r,r,2,A.lS(r,new A.eh(4,A.ea(12),B.c9),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Password",!0,r,B.Es,r,r,r,r,r,r,r,r,r,r,r),B.Y,!0,r,!0,r,!1,r,B.bd,r,r,r,r,r,r,r,1,r,r,!0,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bS,r,r,B.b6,B.aX,r,r,r,r,r,r,r,!0,B.ah,r,B.c0,r,r,r,r),B.yj],p),n=s.r
+N(a){var s=this,r=null,q=A.ea(16),p=t.p,o=A.b([A.ave("assets/logo2.png",100),B.yj,B.SE,B.cW,A.mE(!0,B.ba,!1,r,!0,B.K,r,A.q8(),s.d,r,r,r,r,r,2,A.lS(r,new A.eh(4,A.ea(12),B.c9),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Username",!0,r,B.Eo,r,r,r,r,r,r,r,r,r,r,r),B.Y,!0,r,!0,r,!1,r,B.bd,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bS,r,r,B.b6,B.aX,r,r,r,r,r,r,r,!0,B.ah,r,B.c0,r,r,r,r),B.hK,A.mE(!0,B.ba,!1,r,!0,B.K,r,A.q8(),s.e,r,r,r,r,r,2,A.lS(r,new A.eh(4,A.ea(12),B.c9),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Password",!0,r,B.Es,r,r,r,r,r,r,r,r,r,r,r),B.Y,!0,r,!0,r,!1,r,B.bd,r,r,r,r,r,r,r,1,r,r,!0,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bS,r,r,B.b6,B.aX,r,r,r,r,r,r,r,!0,B.ah,r,B.c0,r,r,r,r),B.yj],p),n=s.r
 if(n!=null)B.b.U(o,A.b([A.bx(n,r,r,r,B.RJ,r,r,r),B.yi],p))
 o.push(s.f?B.B_:A.dy(A.b([A.cX(A.Ie(!1,B.SK,r,r,r,r,r,r,s.gamQ(),r,A.If(r,r,B.bi,r,r,r,r,r,r,r,r,r,B.ms,r,new A.c5(A.ea(12),B.q),r,r,r,r)),r,1/0),B.yi,A.cX(new A.K_(s.gZ_(),r,r,r,A.aH9(r,r,r,r,r,r,r,r,r,B.bi,r,r,B.ms,r,new A.c5(A.ea(12),B.q),B.zE,r,r,r,r),r,r,!1,r,!0,r,B.SG,r),r,1/0)],p),B.L,B.I,B.a5))
 return A.a9Y(r,B.iE,A.f9(A.abL(A.wp(new A.bw(B.Dq,A.dy(o,B.L,B.I,B.b1),r),r,8,B.mu,new A.c5(q,B.q)),r),r,r),r)}}
@@ -84468,7 +84468,7 @@ s.toString
 A.apB(r,r,!0,r,new A.ajw(q,this),s,r,!0,t.z)},
 N(a){var s,r,q,p,o,n=this,m=null,l=n.XV(),k=n.f,j=k>0?B.d.fV(l/k,0,1):0
 k=t.p
-s=A.fq(A.b([A.bx("WalletBuddy",m,m,m,A.asP().$3$color$fontSize$fontWeight(B.bi,24,B.cg),m,m,m),B.Np,A.ave("logo2.png",28)],k),B.L,B.I,B.b1)
+s=A.fq(A.b([A.bx("WalletBuddy",m,m,m,A.asP().$3$color$fontSize$fontWeight(B.bi,24,B.cg),m,m,m),B.Np,A.ave("assets/logo2.png",28)],k),B.L,B.I,B.b1)
 s=A.aq8(A.b([A.lM(m,m,B.Ew,m,m,new A.ajj(a),m,m,"Logout")],k),B.k,!0,B.ja,s)
 r=A.bH(a,m,t.w).w
 q=A.dy(A.b([A.mE(!0,B.ba,!1,m,!0,B.K,m,A.q8(),n.d,m,m,m,m,m,2,B.ET,B.Y,!0,m,!0,m,!1,m,B.bd,m,A.b([new A.xA(A.c4("^\\d*\\.?\\d{0,2}",!0,!1),!0,"")],t.VS),m,B.Oi,m,m,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.bS,m,m,B.b6,B.aX,m,m,m,m,m,m,m,!0,B.ah,m,B.c0,m,m,m,m),B.hL,A.cX(A.Ie(!1,A.bx("Spend",m,m,m,m,m,m,m),m,m,m,m,m,m,new A.ajk(n),m,m),m,1/0)],k),B.L,B.I,B.a5)
